@@ -1,0 +1,1 @@
+obj-$(CONFIG_SND_SOC_FS16XX) += fs16xx.o fs16xx_preset.o fs16xx_calibration.o
